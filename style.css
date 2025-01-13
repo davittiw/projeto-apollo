@@ -1,2094 +1,448 @@
-/* Desktop - 1 */
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
 
 position: relative;
-width: 1440px;
-height: 3879px;
+width: 1920px;
+height: 4632px;
 overflow-y: scroll;
 
-background: #EEEEEE;
-
-
-/* Rectangle 16 */
-
-position: absolute;
-width: 1679px;
-height: 1327px;
-left: -105px;
-top: -341px;
-
-background: #090B15;
-
-
-/* section-matricula */
-
-position: absolute;
-width: 1439px;
-height: 491px;
-left: 98px;
-top: 2032px;
-
-
-
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. */
-
-position: absolute;
-width: 409px;
-height: 287px;
-left: 100px;
-top: 2170px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 22px;
-text-align: justify;
-
-color: #000000;
-
-
-
-/* MATRICULAR? */
-
-position: absolute;
-width: 409px;
-height: 90px;
-left: 100px;
-top: 2080px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 60px;
-line-height: 90px;
-/* identical to box height */
-
-color: #FD9649;
-
-
-
-/* Por que se */
-
-position: absolute;
-width: 209px;
-height: 60px;
-left: 100px;
-top: 2032px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 40px;
-line-height: 60px;
-/* identical to box height */
-
-color: #000000;
-
-
-
-/* Rectangle 6 */
-
-position: absolute;
-width: 276px;
-height: 383px;
-left: 599px;
-top: 2087px;
-
-background: #090B15;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 10px;
-
-
-/* Rectangle 7 */
-
-position: absolute;
-width: 276px;
-height: 383px;
-left: 930px;
-top: 2087px;
-
-background: #090B15;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 10px;
-
-
-/* Rectangle 8 */
-
-position: absolute;
-width: 276px;
-height: 383px;
-left: 1261px;
-top: 2092px;
-
-background: #090B15;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 10px;
-
-
-/* Rectangle 3 */
-
-position: absolute;
-width: 137px;
-height: 32px;
-left: 98px;
-top: 2491px;
-
-background: #FD9649;
-border-radius: 10px;
-
-
-/* Done */
-
-position: absolute;
-width: 13.95px;
-height: 13.98px;
-left: 209px;
-top: 2501.05px;
-
-background: url(.png);
-transform: rotate(-0.19deg);
-
-
-/* Matricule-se */
-
-position: absolute;
-width: 95px;
-height: 23px;
-left: 110px;
-top: 2495px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 22px;
-/* identical to box height */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Group 19 */
-
-position: absolute;
-width: 918px;
-height: 401px;
-left: 613px;
-top: 2094px;
-
-
-
-/* Instrutores especializados! */
-
-position: absolute;
-width: 210px;
-height: 23px;
-left: 949px;
-top: 2412px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 15px;
-line-height: 22px;
-/* identical to box height */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Captura_de_tela_2025-01-05_121710-removebg-preview 2 */
-
-position: absolute;
-width: 121.77px;
-height: 281.94px;
-left: 725.97px;
-top: 2137px;
-
-background: url(Captura_de_tela_2025-01-05_121710-removebg-preview);
-filter: blur(2px);
-transform: rotate(0.2deg);
-
-
-/* Captura de tela 2025-01-05 122506 1 */
-
-position: absolute;
-width: 259px;
-height: 369px;
-left: 938px;
-top: 2094px;
-
-background: url(Captura de tela 2025-01-05 122506);
-filter: blur(2px);
-border-radius: 10px;
-
-
-/* Comunidade ativa e unida */
-
-position: absolute;
-width: 210px;
-height: 23px;
-left: 1287px;
-top: 2414px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 22px;
-/* identical to box height */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Captura de tela 2025-01-05 122658 1 */
-
-position: absolute;
-width: 263px;
-height: 367px;
-left: 1268px;
-top: 2100px;
-
-background: url(Captura de tela 2025-01-05 122658);
-filter: blur(2px);
-border-radius: 10px;
-
-
-/* Captura_de_tela_2025-01-05_121710-removebg-preview 1 */
-
-position: absolute;
-width: 118.96px;
-height: 281.94px;
-left: 636.97px;
-top: 2105px;
-
-background: url(Captura_de_tela_2025-01-05_121710-removebg-preview);
-filter: blur(2px);
-transform: rotate(0.2deg);
-
-
-/* Captura_de_tela_2025-01-05_121955-removebg-preview 1 */
-
-position: absolute;
-width: 169.72px;
-height: 325.63px;
-left: 651px;
-top: 2095.55px;
-
-background: url(Captura_de_tela_2025-01-05_121955-removebg-preview);
-filter: blur(2px);
-transform: rotate(-0.52deg);
-
-
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. */
-
-position: absolute;
-width: 202px;
-height: 112px;
-left: 613px;
-top: 2383px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 8px;
-line-height: 12px;
-/* or 150% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Next Fit App */
-
-position: absolute;
-width: 92px;
-height: 23px;
-left: 613px;
-top: 2359px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 15px;
-line-height: 22px;
-/* identical to box height */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* section-planos */
-
-position: absolute;
-width: 1397px;
-height: 755px;
-left: 21px;
-top: 2708px;
-
-
-
-/* Rectangle 9 */
-
-position: absolute;
-width: 1397px;
-height: 755px;
-left: 21px;
-top: 2708px;
-
-background: #F3F3F3;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Comece a treinar hoje mesmo Matricule-se */
-
-position: absolute;
-width: 460px;
-height: 99px;
-left: 837.5px;
-top: 2802px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 30px;
-line-height: 50px;
-/* or 167% */
-text-align: center;
-
-color: #000000;
-
-
-
-/* Captura de tela 2025-01-05 123959 1 */
-
-position: absolute;
-width: 641px;
-height: 691px;
-left: 53.5px;
-top: 2737px;
-
-background: url(Captura de tela 2025-01-05 123959.png);
-border-radius: 10px;
-
-
-/* Group 13 */
-
-position: absolute;
-width: 139px;
-height: 48px;
-left: 992.5px;
-top: 3285px;
-
-
-
-/* Rectangle 3 */
-
-position: absolute;
-width: 139px;
-height: 30.72px;
-left: 992.5px;
-top: 3293.64px;
-
-background: #FD9649;
-border-radius: 10px;
-
-
-/* Iniciar Cadastro */
-
-position: absolute;
-width: 82.18px;
-height: 48px;
-left: 1021.5px;
-top: 3285px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 10px;
-line-height: 50px;
-/* or 500% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Escolha seu Plano Apollo! */
-
-position: absolute;
-width: 192px;
-height: 50px;
-left: 968.5px;
-top: 2907px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 50px;
-/* identical to box height, or 333% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* PLANOS2 */
-
-position: absolute;
-width: 679px;
-height: 296px;
-left: 729.5px;
-top: 2972px;
-
-
-
-/* Group 12 */
-
-position: absolute;
-width: 145px;
-height: 295px;
-left: 895.5px;
-top: 2973px;
-
-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-
-
-/* Rectangle 13 */
-
-position: absolute;
-width: 145px;
-height: 271.79px;
-left: 895.5px;
-top: 2973px;
-
-background: #D9D9D9;
-
-
-/* Mensal */
-
-position: absolute;
-width: 33.2px;
-height: 28.11px;
-left: 911.62px;
-top: 3052.09px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 9px;
-line-height: 20px;
-/* or 222% */
-text-align: justify;
-
-color: rgba(0, 0, 0, 0.8);
-
-
-
-/* Done */
-
-position: absolute;
-width: 12.03px;
-height: 13.89px;
-left: 907.69px;
-top: 3161.07px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Done */
-
-position: absolute;
-width: 12.03px;
-height: 13.89px;
-left: 907.69px;
-top: 3186.15px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Done */
-
-position: absolute;
-width: 12.03px;
-height: 13.89px;
-left: 907.69px;
-top: 3108.99px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Done */
-
-position: absolute;
-width: 12.03px;
-height: 13.89px;
-left: 907.69px;
-top: 3136.96px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Funcional 3X na Semana */
-
-position: absolute;
-width: 101.62px;
-height: 28.11px;
-left: 922.69px;
-top: 3134.07px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Acesso à área de Cardio */
-
-position: absolute;
-width: 100.62px;
-height: 28.11px;
-left: 922.69px;
-top: 3078.13px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Avaliação Física gratuita */
-
-position: absolute;
-width: 101.62px;
-height: 28.11px;
-left: 923.69px;
-top: 3106.1px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Done */
-
-position: absolute;
-width: 12.03px;
-height: 13.89px;
-left: 907.69px;
-top: 3080.06px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* SEM fidelidade de Plano */
-
-position: absolute;
-width: 96.59px;
-height: 28.11px;
-left: 922.69px;
-top: 3158.18px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* R$150 */
-
-position: absolute;
-width: 39.24px;
-height: 70.28px;
-left: 944.82px;
-top: 3197.72px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 13px;
-line-height: 50px;
-/* or 385% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Acesso ao App Next Fit */
-
-position: absolute;
-width: 92.57px;
-height: 28.11px;
-left: 923.69px;
-top: 3183.25px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Plano Musculação + Funcional */
-
-position: absolute;
-width: 112.69px;
-height: 84.34px;
-left: 911.62px;
-top: 2988.43px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 20px;
-/* or 133% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Group 10 */
-
-position: absolute;
-width: 151.24px;
-height: 284px;
-left: 1062.5px;
-top: 2973px;
-
-
-
-/* Rectangle 14 */
-
-position: absolute;
-width: 145px;
-height: 270.77px;
-left: 1062.5px;
-top: 2973px;
-
-background: #D9D9D9;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Acesso à área de Cardio */
-
-position: absolute;
-width: 119.72px;
-height: 25.19px;
-left: 1092.82px;
-top: 3084.46px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Plano Musculação + Ritmos */
-
-position: absolute;
-width: 134.08px;
-height: 75.56px;
-left: 1076.06px;
-top: 2993.88px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 20px;
-/* or 133% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Aulas todos os dias */
-
-position: absolute;
-width: 94.58px;
-height: 25.19px;
-left: 1092.82px;
-top: 3134.84px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.44px;
-left: 1074.99px;
-top: 3165.06px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Mensal */
-
-position: absolute;
-width: 39.51px;
-height: 25.19px;
-left: 1074.87px;
-top: 3055.5px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 9px;
-line-height: 20px;
-/* or 222% */
-text-align: justify;
-
-color: rgba(0, 0, 0, 0.8);
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.44px;
-left: 1074.99px;
-top: 3090.76px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* SEM fidelidade de Plano */
-
-position: absolute;
-width: 114.93px;
-height: 25.19px;
-left: 1092.82px;
-top: 3158.77px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.44px;
-left: 1074.99px;
-top: 3115.95px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.44px;
-left: 1074.99px;
-top: 3141.14px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Avaliação Física gratuita */
-
-position: absolute;
-width: 120.92px;
-height: 25.19px;
-left: 1092.82px;
-top: 3109.65px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Acesso ao App Next Fit */
-
-position: absolute;
-width: 110.14px;
-height: 25.19px;
-left: 1094.02px;
-top: 3183.96px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.44px;
-left: 1076.18px;
-top: 3190.25px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* R$130 */
-
-position: absolute;
-width: 46.69px;
-height: 62.97px;
-left: 1125.15px;
-top: 3194.03px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 13px;
-line-height: 50px;
-/* or 385% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Group 13 */
-
-position: absolute;
-width: 173px;
-height: 285.41px;
-left: 1235.5px;
-top: 2972px;
-
-
-
-/* Rectangle 14 */
-
-position: absolute;
-width: 145px;
-height: 272.68px;
-left: 1235.5px;
-top: 2972px;
-
-background: #D9D9D9;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-
-/* Plano Pilates */
-
-position: absolute;
-width: 134.08px;
-height: 76.1px;
-left: 1247.5px;
-top: 3001px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 20px;
-/* or 133% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Mensal */
-
-position: absolute;
-width: 39.51px;
-height: 25.37px;
-left: 1247.5px;
-top: 3042px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 9px;
-line-height: 20px;
-/* or 222% */
-text-align: justify;
-
-color: rgba(0, 0, 0, 0.8);
-
-
-
-/* Group 17 */
-
-position: absolute;
-width: 128.1px;
-height: 25.37px;
-left: 1243.5px;
-top: 3172px;
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.53px;
-left: 1243.62px;
-top: 3178.34px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Acesso ao App Next Fit */
-
-position: absolute;
-width: 110.14px;
-height: 25.37px;
-left: 1261.46px;
-top: 3172px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Group 15 */
-
-position: absolute;
-width: 132.89px;
-height: 25.37px;
-left: 1243.5px;
-top: 3146px;
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.53px;
-left: 1243.62px;
-top: 3152.34px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* SEM fidelidade de Plano */
-
-position: absolute;
-width: 114.93px;
-height: 25.37px;
-left: 1261.46px;
-top: 3146px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Group 18 */
-
-position: absolute;
-width: 110.54px;
-height: 35px;
-left: 1243.5px;
-top: 3119px;
-
-
-
-/* Aulas todos os dias */
-
-position: absolute;
-width: 94.58px;
-height: 25.37px;
-left: 1259.46px;
-top: 3125px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Close */
-
-position: absolute;
-width: 10px;
-height: 35px;
-left: 1243.5px;
-top: 3119px;
-
-background: url(.png);
-
-
-/* Group 16 */
-
-position: absolute;
-width: 138.87px;
-height: 25.37px;
-left: 1242.5px;
-top: 3100px;
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.53px;
-left: 1242.62px;
-top: 3106.34px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Avaliação Física gratuita */
-
-position: absolute;
-width: 120.92px;
-height: 25.37px;
-left: 1260.46px;
-top: 3100px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Group 14 */
-
-position: absolute;
-width: 137.68px;
-height: 25.37px;
-left: 1242.5px;
-top: 3074px;
-
-
-
-/* Done */
-
-position: absolute;
-width: 14.31px;
-height: 12.53px;
-left: 1242.62px;
-top: 3080.34px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Acesso à área de Cardio */
-
-position: absolute;
-width: 119.72px;
-height: 25.37px;
-left: 1260.46px;
-top: 3074px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* R$180 */
-
-position: absolute;
-width: 46.69px;
-height: 63.41px;
-left: 1251.5px;
-top: 3194px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 13px;
-line-height: 50px;
-/* or 385% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Plano 2x na Semana */
-
-position: absolute;
-width: 51px;
-height: 12px;
-left: 1247.5px;
-top: 3204px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 5px;
-line-height: 12px;
-/* identical to box height, or 240% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* ou */
-
-position: absolute;
-width: 9px;
-height: 10px;
-left: 1303.5px;
-top: 3211px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 5px;
-line-height: 12px;
-/* or 240% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* R$250 */
-
-position: absolute;
-width: 46.69px;
-height: 63.41px;
-left: 1319.5px;
-top: 3194px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 13px;
-line-height: 50px;
-/* or 385% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Plano 3x na Semana */
-
-position: absolute;
-width: 91px;
-height: 12px;
-left: 1317.5px;
-top: 3204px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 5px;
-line-height: 12px;
-/* identical to box height, or 240% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Group 11 */
-
-position: absolute;
-width: 145px;
-height: 285px;
-left: 729.5px;
-top: 2972px;
-
-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-
-
-/* Rectangle 12 */
-
-position: absolute;
-width: 145px;
-height: 269.5px;
-left: 729.5px;
-top: 2972px;
-
-background: #D9D9D9;
-
-
-/* Done */
-
-position: absolute;
-width: 12.21px;
-height: 13.42px;
-left: 736.75px;
-top: 3144.18px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Close */
-
-position: absolute;
-width: 9.19px;
-height: 38.03px;
-left: 737.67px;
-top: 3101.56px;
-
-background: url(.png);
-
-
-/* Done */
-
-position: absolute;
-width: 12.21px;
-height: 13.42px;
-left: 736.75px;
-top: 3086.16px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Done */
-
-position: absolute;
-width: 12.21px;
-height: 13.42px;
-left: 736.75px;
-top: 3064.64px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* Done */
-
-position: absolute;
-width: 12.21px;
-height: 13.42px;
-left: 736.75px;
-top: 3167.57px;
-
-background: url(.png);
-transform: matrix(1, 0.01, -0.01, 1, 0, 0);
-
-
-/* SEM fidelidade de Plano */
-
-position: absolute;
-width: 98.03px;
-height: 13.58px;
-left: 751.96px;
-top: 3146.99px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 10px;
-/* or 125% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Acesso à outras modalida des */
-
-position: absolute;
-width: 108.24px;
-height: 27.16px;
-left: 750.94px;
-top: 3113.3px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 10px;
-/* or 125% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Acesso à área de Cardio */
-
-position: absolute;
-width: 102.11px;
-height: 27.16px;
-left: 752.99px;
-top: 3062.77px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Avaliação Física gratuita */
-
-position: absolute;
-width: 103.13px;
-height: 27.16px;
-left: 752.99px;
-top: 3083.35px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 20px;
-/* or 250% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* Acesso ao App Next Fit */
-
-position: absolute;
-width: 93.94px;
-height: 13.58px;
-left: 752.99px;
-top: 3169.44px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 8px;
-line-height: 10px;
-/* or 125% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* R$100 */
-
-position: absolute;
-width: 39.82px;
-height: 67.9px;
-left: 780.56px;
-top: 3189.1px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 13px;
-line-height: 50px;
-/* or 385% */
-text-align: justify;
-
-color: #FD9649;
-
-
-
-/* Mensal */
-
-position: absolute;
-width: 33.7px;
-height: 27.16px;
-left: 742.77px;
-top: 3034.7px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 9px;
-line-height: 20px;
-/* or 222% */
-text-align: justify;
-
-color: rgba(0, 0, 0, 0.8);
-
-
-
-/* Plano Musculação */
-
-position: absolute;
-width: 94.96px;
-height: 54.32px;
-left: 742.77px;
-top: 2995.39px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 20px;
-/* or 133% */
-text-align: justify;
-
-color: #000000;
-
-
-
-/* section-footer */
-
-position: absolute;
-width: 1625px;
-height: 380px;
-left: 5px;
-top: 3499px;
-
-
-
-/* Rectangle 15 */
-
-position: absolute;
-width: 1625px;
-height: 380px;
-left: 5px;
-top: 3499px;
-
-background: #090B15;
-
-
-/* WhatsApp */
-
-position: absolute;
-width: 34px;
-height: 29px;
-left: 934px;
-top: 3646px;
-
-background: url(.png);
-
-
-/* Instagram */
-
-position: absolute;
-width: 34px;
-height: 29px;
-left: 974px;
-top: 3646px;
-
-background: url(.png);
-
-
-/* Facebook */
-
-position: absolute;
-width: 34px;
-height: 29px;
-left: 1015px;
-top: 3646px;
-
-background: url(.png);
-
-
-/* Line 1 */
-
-position: absolute;
-width: 686.01px;
-height: 0px;
-left: 389px;
-top: 3829px;
-
-border: 1px solid rgba(226, 226, 226, 0.44);
-
-
-/* © 2025 Desenvolvido por */
-
-position: absolute;
-width: 165px;
-height: 50px;
-left: 553px;
-top: 3829px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 50px;
-/* identical to box height, or 417% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* contatoapolloacademia@gmail.com */
-
-position: absolute;
-width: 326px;
-height: 37px;
-left: 934px;
-top: 3753px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 20px;
-/* or 167% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Planos */
-
-position: absolute;
-width: 40px;
-height: 50px;
-left: 150px;
-top: 3661px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 50px;
-/* identical to box height, or 417% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Veja Também! */
-
-position: absolute;
-width: 148px;
-height: 50px;
-left: 150px;
-top: 3593px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 50px;
-/* identical to box height, or 250% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Sobre nós */
-
-position: absolute;
-width: 60px;
-height: 50px;
-left: 540px;
-top: 3661px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 50px;
-/* identical to box height, or 417% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* 📍Avenida dos Corretores, 356 - Jardim Samambaia, Praia Grande - SP, 11712-400 */
-
-position: absolute;
-width: 326px;
-height: 37px;
-left: 934px;
-top: 3692px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 20px;
-/* or 167% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Saiba Mais */
-
-position: absolute;
-width: 109px;
-height: 50px;
-left: 540px;
-top: 3593px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 50px;
-/* identical to box height, or 250% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Trabalhe Conosco */
-
-position: absolute;
-width: 111px;
-height: 50px;
-left: 540px;
-top: 3632px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 50px;
-/* identical to box height, or 417% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Eventos com a Comunidade */
-
-position: absolute;
-width: 171px;
-height: 50px;
-left: 150px;
-top: 3628px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 50px;
-/* identical to box height, or 417% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Entre em Contato com a Apollo! */
-
-position: absolute;
-width: 320px;
-height: 50px;
-left: 934px;
-top: 3593px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 50px;
-/* identical to box height, or 250% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Nosso Espaço */
-
-position: absolute;
-width: 84px;
-height: 50px;
-left: 148px;
-top: 3692px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 50px;
-/* identical to box height, or 417% */
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* section-landingPage */
-
-position: absolute;
-width: 1376px;
-height: 827px;
-left: 39px;
-top: 1022px;
-
-
-
-/* mulher e homem mostrando o braço 1 */
-
-position: absolute;
-width: 1376px;
-height: 827px;
-left: 39px;
-top: 1022px;
-
-background: url(mulher e homem mostrando o braço.jpg);
-mix-blend-mode: plus-darker;
-border-radius: 10px;
-
-
-/* CONHEÇA AS NOSSAS MODALIDADES! */
-
-position: absolute;
-width: 662px;
-height: 120px;
-left: 396px;
-top: 1156px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 900;
-font-size: 50px;
-line-height: 60px;
-/* or 120% */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #000000;
-
-
-
-/* zumba 1 */
-
-position: absolute;
-width: 250px;
-height: 344px;
-left: 99px;
-top: 1307px;
-
-background: url(zumba);
-border-radius: 10px;
-
-
-/* musculação 1 */
-
-position: absolute;
-width: 250px;
-height: 344px;
-left: 429px;
-top: 1307px;
-
-background: url(musculação);
-border-radius: 10px;
-
-
-/* pilates 1 */
-
-position: absolute;
-width: 250px;
-height: 344px;
-left: 1094px;
-top: 1307px;
-
-background: url(pilates);
-border-radius: 10px;
-
-
-/* crossfit 1 */
-
-position: absolute;
-width: 250px;
-height: 344px;
-left: 765px;
-top: 1307px;
-
-background: url(crossfit);
-border-radius: 10px;
-
-
-/* FUNCIONAL */
-
-position: absolute;
-width: 180px;
-height: 60px;
-left: 800px;
-top: 1456px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 900;
-font-size: 30px;
-line-height: 60px;
-/* identical to box height, or 200% */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FF6D00;
-
-
-
-/* RITMOS */
-
-position: absolute;
-width: 256px;
-height: 25px;
-left: 96px;
-top: 1476px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 900;
-font-size: 30px;
-line-height: 60px;
-/* or 200% */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FF6D00;
-
-
-
-/* PILATES */
-
-position: absolute;
-width: 256px;
-height: 25px;
-left: 1101px;
-top: 1476px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 900;
-font-size: 30px;
-line-height: 60px;
-/* or 200% */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FF6D00;
-
-
-
-/* MUSCULAÇÃO */
-
-position: absolute;
-width: 222px;
-height: 18px;
-left: 443px;
-top: 1479px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 900;
-font-size: 30px;
-line-height: 60px;
-/* or 200% */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FF6D00;
-
+background: #E4E4E4;
 
 
 /* section-navbar */
 
-position: absolute;
-width: 1576.12px;
-height: 103.24px;
-left: 0px;
-top: 12px;
-
-opacity: 0.9;
-
-
-/* CONTATO-BOTAO */
-
-position: absolute;
-width: 657.12px;
-height: 37px;
-left: 787px;
-top: 41px;
-
-
-
-/* Espaço do Cliente */
-
-position: absolute;
-width: 657.12px;
-height: 37px;
-left: 787px;
-top: 41px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+/* Auto layout */
 display: flex;
-align-items: center;
-text-align: center;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 15px;
 
-color: #FFFFFF;
+width: 1920px;
+height: 100px;
 
-
-
-/* MATRICULESE-BOTAO */
-
-position: absolute;
-width: 563px;
-height: 38px;
-left: 526px;
-top: 40px;
-
-
-
-/* Rectangle 3 */
-
-position: absolute;
-width: 126.86px;
-height: 38px;
-left: 744.07px;
-top: 40px;
-
+/* apollo-orange */
 background: #FD9649;
-border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* container-navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 1890px;
+height: 100px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* esquerdo-navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 912px;
+height: 100px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -12px;
+
+
+/* apollo-icon */
+
+position: absolute;
+width: 70px;
+height: 68px;
+left: 30px;
+top: 16px;
+
+background: url(Apollo-Logo-sem_fundo]);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* direito-navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 21px;
+
+width: 990px;
+height: 100px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* button-matricula */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 3px 12px;
+
+width: 129px;
+height: 30px;
+
+/* blue */
+background: #04188B;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
 
 
 /* Matricule-se */
 
+width: 104px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px 20px 0px 0px;
+gap: 16px;
+
+width: 458px;
+height: 100px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Sobre nós */
+
+width: 94px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Contato */
+
+width: 142px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+/* white */
+color: #EEEEEE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Espaço do Cliente */
+
+width: 145px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* section-home */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 1920px;
+height: 810px;
+
+background: #811F1F;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* container-home */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 1920px;
+height: 810px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* background */
+
+width: 1920px;
+height: 810px;
+
+background: url(Untitled Project (1).jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* section-modalidade */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 0px 0px;
+isolation: isolate;
+
+width: 1920px;
+height: 810px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
 position: absolute;
-width: 563px;
-height: 37px;
-left: 526px;
-top: 40px;
+width: 1406px;
+height: 1208px;
+left: -3px;
+top: -32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1453.21px;
+height: 399.27px;
+left: -238.7px;
+top: 896.72px;
+
+background: rgba(216, 216, 216, 0.53);
+transform: rotate(-53.16deg);
+
+
+/* container-modalidade */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 15px;
+
+width: 1920px;
+height: 760px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 50px 0px 0px 10px;
+gap: 60px;
+
+width: 1890px;
+height: 760px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 1217px;
+height: 101px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* h2 */
+
+width: 1217px;
+height: 70px;
+
+/* poppins-exlarge */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* blue */
+color: #04188B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* h4 */
+
+width: 990px;
+height: 26px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+font-size: 25px;
+line-height: 38px;
 display: flex;
 align-items: center;
 text-align: center;
@@ -2096,213 +450,3799 @@ text-align: center;
 color: #000000;
 
 
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
 
-/* SOBRENOS-BOTAO */
+
+/* Frame 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 10px;
+gap: 100px;
+isolation: isolate;
+
+width: 1600px;
+height: 600px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* pilates-image */
+
+width: 250px;
+height: 600px;
+
+background: rgba(253, 150, 73, 0.8);
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* musculacao-image */
+
+width: 250px;
+height: 600px;
+
+background: url(musculacao.jpg);
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Musculação */
 
 position: absolute;
-width: 657.12px;
-height: 35px;
-left: 625px;
-top: 41px;
+width: 487px;
+height: 76px;
+left: 587px;
+top: 516px;
 
-
-
-/* Sobre nós */
-
-position: absolute;
-width: 657.12px;
-height: 35px;
-left: 625px;
-top: 41px;
-
+/* poppins-exlarge */
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+font-weight: 700;
+font-size: 61px;
+line-height: 92px;
 display: flex;
 align-items: center;
 text-align: center;
 
 color: #FFFFFF;
 
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
 
 
-/* Apollo-Logo-sem_fundo] 1 */
+/* ritmos-image */
 
-position: absolute;
-width: 151.74px;
-height: 102.93px;
-left: 0px;
-top: 12.32px;
+width: 250px;
+height: 600px;
 
-background: url(Apollo-Logo-sem_fundo]);
-transform: matrix(1, 0, 0, 1, 0, 0);
+background: url(ritmos.jpg);
+border-radius: 10px;
 
-
-/* Rectangle 17 */
-
-position: absolute;
-width: 50px;
-height: 50px;
-left: 1336px;
-top: 34px;
-
-background: #FD9649;
-border-radius: 2px;
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
 
 
-/* Menu */
+/* funcional-image */
 
-position: absolute;
-width: 46px;
-height: 35px;
-left: 1338px;
-top: 41px;
+width: 250px;
+height: 600px;
 
-background: url(.png);
+background: rgba(253, 150, 73, 0.8);
+border-radius: 10px;
 
-
-/* CONTATO-BOTAO */
-
-position: absolute;
-width: 657.12px;
-height: 37px;
-left: 919px;
-top: 41px;
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
 
 
-
-/* Login */
+/* Ritimos */
 
 position: absolute;
-width: 657.12px;
-height: 37px;
-left: 919px;
-top: 41px;
+width: 240px;
+height: 76px;
+left: 937px;
+top: 409px;
 
+/* poppins-exlarge */
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+font-weight: 700;
+font-size: 61px;
+line-height: 92px;
 display: flex;
 align-items: center;
 text-align: center;
 
 color: #FFFFFF;
 
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
 
 
-/* Group 20 */
-
-position: absolute;
-width: 988px;
-height: 430px;
-left: 401px;
-top: 274px;
-
-
-
-/* Group 21 */
+/* Pilates */
 
 position: absolute;
-width: 430px;
-height: 430px;
-left: 505px;
-top: 274px;
+width: 487px;
+height: 76px;
+left: 237px;
+top: 532px;
+
+/* poppins-exlarge */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
 
 
-
-/* Ellipse 1 */
+/* Funcional */
 
 position: absolute;
-width: 430px;
-height: 430px;
-left: 505px;
-top: 274px;
+width: 487px;
+height: 76px;
+left: 1287px;
+top: 532px;
 
-background: #FFFFFF;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+/* poppins-exlarge */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+z-index: 7;
 
 
-/* Ellipse 2 */
+/* section-servicos */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+isolation: isolate;
+
+width: 1920px;
+height: 810px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1 */
 
 position: absolute;
-width: 387px;
-height: 387px;
-left: 526.5px;
-top: 295.5px;
+width: 1406px;
+height: 1208px;
+left: 518px;
+top: 111px;
 
-background: #090B15;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 993px;
+height: 716px;
+left: 412.1px;
+top: 0px;
+
+background: rgba(216, 216, 216, 0.53);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 366.46px;
+height: 814.49px;
+left: 397.94px;
+top: -17px;
+
+background: rgba(216, 216, 216, 0.53);
+transform: rotate(29.25deg);
+
+
+/* container-servicos */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 1750px;
+height: 790px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
 
 
 /* cara treinando 1 */
 
 position: absolute;
-width: 579px;
-height: 394px;
-left: 437px;
-top: 310px;
+width: 463px;
+height: 458px;
+left: 598px;
+top: 178px;
 
-background: url(cara treinando);
+background: url(cara treinando.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
 
 
-/* APOLLO */
+/* esquerdo-servico */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 30px;
+isolation: isolate;
+
+margin: 0 auto;
+width: 875px;
+height: 790px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+z-index: 1;
+
+
+/* Rectangle 1 */
 
 position: absolute;
-width: 866px;
-height: 76px;
-left: 428px;
-top: 469px;
+width: 184px;
+height: 93px;
+left: 377px;
+top: 314px;
+
+/* apollo-orange */
+background: #FD9649;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Temos os melhores serviços para você. */
+
+width: 131px;
+height: 126px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Servi ços */
+
+width: 241px;
+height: 254px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
-font-size: 150px;
-line-height: 60px;
-/* or 40% */
-text-align: justify;
-color: #FF8A33;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-size: 110px;
+line-height: 90px;
+/* or 82% */
+text-transform: uppercase;
+
+color: #000000;
 
 
-/* A MELHOR ACADEMIA DA BAIXADA SANTISTA */
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* direito-servico */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+margin: 0 auto;
+width: 875px;
+height: 790px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+
+width: 600px;
+height: 400px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 22 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 600px;
+height: 130px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rope */
+
+width: 100px;
+height: 100px;
+
+background: url(.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 22 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 324px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Programa pessoal de exercícios */
+
+width: 258px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* --- */
+
+width: 29px;
+height: 18px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+color: rgba(0, 0, 0, 0.44);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+width: 324px;
+height: 31px;
+
+/* poppins-light */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: rgba(19, 19, 19, 0.66);
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 21 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 600px;
+height: 130px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Sewing Tape Measure */
+
+width: 100px;
+height: 100px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 22 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 324px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Avaliação Técnica e Física */
+
+width: 213px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* --- */
+
+width: 29px;
+height: 18px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+color: rgba(0, 0, 0, 0.44);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+width: 324px;
+height: 31px;
+
+/* poppins-light */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: rgba(19, 19, 19, 0.66);
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 21 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: flex-end;
+padding: 0px;
+gap: 10px;
+
+width: 600px;
+height: 130px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Fitness */
+
+width: 100px;
+height: 100px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 22 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 324px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Programa pessoal de exercícios */
+
+width: 258px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* --- */
+
+width: 29px;
+height: 18px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+color: rgba(0, 0, 0, 0.44);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+width: 324px;
+height: 31px;
+
+/* poppins-light */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: rgba(19, 19, 19, 0.66);
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* section-localidade */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 30px;
+
+width: 1920px;
+height: 810px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* container-localidade */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 1860px;
+height: 750px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* esquerdo-localidade */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px 0px 0px 10px;
+gap: 30px;
+isolation: isolate;
+
+width: 866px;
+height: 784px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Arrow */
 
 position: absolute;
-width: 988px;
+width: 50px;
 height: 50px;
-left: 401px;
-top: 469px;
+left: 816px;
+top: 650px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Arrow */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 106px;
+top: 650px;
+
+background: url(.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 19 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+
+width: 856px;
+height: 135px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Academia Confortável */
+
+width: 827px;
+height: 48px;
+
+/* poppins-exlarge */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 92px;
+display: flex;
+align-items: center;
+
+/* apollo-orange */
+color: #FD9649;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. */
+
+width: 856px;
+height: 72px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+/* black */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 20 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 856px;
+height: 350px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+z-index: 3;
+
+
+/* instrutor 1 */
+
+width: 400px;
+height: 350px;
+
+background: url(instrutor.jpg);
+border-radius: 20px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* instrutor 1 */
+
+width: 400px;
+height: 350px;
+
+background: url(instrutor.jpg);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* instrutor 1 */
+
+width: 400px;
+height: 350px;
+
+background: url(instrutor.jpg);
+border-radius: 20px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* direito-localidade */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 838px;
+height: 750px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* instrutor 1 */
+
+width: 650px;
+height: 550px;
+
+background: url(instrutor.jpg);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 700px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Localidade */
+
+width: 278px;
+height: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* apollo-orange */
+color: #FD9649;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 406px;
+height: 150px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 📍Avenida dos Corretores, 356 - Jardim Samambaia, Praia Grande - SP, 11712-400 */
+
+width: 346px;
+height: 62px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+/* black */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* section-planos */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+isolation: isolate;
+
+width: 1920px;
+height: 810px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+position: absolute;
+width: 1406px;
+height: 1208px;
+left: 332px;
+top: 76px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 388px;
+height: 378px;
+left: 2812px;
+top: 514px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 388px;
+height: 378px;
+left: 915px;
+top: -270px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 388px;
+height: 378px;
+left: 2410px;
+top: -81px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 388px;
+height: 378px;
+left: 1212px;
+top: 400px;
+
+background: #D9D9D9;
+
+
+/* container-planos */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+isolation: isolate;
+
+width: 1320px;
+height: 734px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* tela-planos */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 36px;
+
+width: 1320px;
+height: 700px;
+
+background: #DEDEDE;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* musc */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 10px;
+
+width: 250px;
+height: 550px;
+
+background: linear-gradient(180deg, #E4E4E4 83.77%, #FFB57E 100%);
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 210px;
+height: 76px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plano Musculação */
+
+width: 152px;
+height: 43px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 20px;
+/* or 91% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mensal */
+
+width: 77px;
+height: 20px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 500;
-font-size: 30px;
-line-height: 60px;
-/* or 200% */
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
 text-align: justify;
 
-color: #FFFFFF;
-
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+color: rgba(0, 0, 0, 0.8);
 
 
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et ultricies nulla. Fusce at tincidunt arcu. Nullam sollicitudin, neque eget fringilla ultrices, magna elit facilisis dolor, vel scelerisque libero nunc vel magna. */
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
 
-position: absolute;
-width: 424px;
-height: 95px;
-left: 93px;
-top: 755px;
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+width: 210px;
+height: 370px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 210px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso à área de Cardio */
+
+width: 149px;
+height: 20px;
 
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 275;
-font-size: 15px;
-line-height: 30px;
-/* or 200% */
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Avaliação Física Gratuita */
+
+width: 152px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso outras modalidades */
+
+width: 178px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SEM Fidelidade de Plano */
+
+width: 146px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso ao APP NextFit */
+
+width: 132px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 210px;
+height: 130px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 5px;
+gap: 20px;
+
+width: 210px;
+height: 130px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* R$100 */
+
+width: 75px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FD9649;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 30 */
+
+width: 122px;
+height: 26px;
+
+/* blue */
+background: #04188B;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Quero Começar */
+
+position: absolute;
+width: 81px;
+height: 0px;
+left: 20px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 0px;
+/* identical to box height, or 0% */
 text-align: justify;
 
 color: #FFFFFF;
 
+
+
+/* muscu+func */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 10px;
+
+width: 250px;
+height: 550px;
+
+background: linear-gradient(180deg, #E4E4E4 85.35%, #FFB57E 100%);
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 210px;
+height: 101px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plano Musculação + Funcional */
+
+width: 152px;
+height: 65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 20px;
+/* or 91% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mensal */
+
+width: 77px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+text-align: justify;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+width: 210px;
+height: 370px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 210px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso à área de Cardio */
+
+width: 149px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Avaliação Física Gratuita */
+
+width: 152px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Aulas todos os dias */
+
+width: 149px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SEM Fidelidade de Plano */
+
+width: 146px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso ao APP NextFit */
+
+width: 132px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 210px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 5px;
+gap: 20px;
+
+width: 210px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* R$150 */
+
+width: 75px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FD9649;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 30 */
+
+width: 122px;
+height: 26px;
+
+/* blue */
+background: #04188B;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Quero Começar */
+
+position: absolute;
+width: 81px;
+height: 0px;
+left: 20px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* pilates */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 10px;
+
+width: 250px;
+height: 550px;
+
+background: linear-gradient(180deg, #E4E4E4 84.05%, #FFB57E 100%);
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 210px;
+height: 82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plano Pilates */
+
+width: 118px;
+height: 45px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 20px;
+/* or 91% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mensal */
+
+width: 77px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+text-align: justify;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+width: 210px;
+height: 370px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 210px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso à área de Cardio */
+
+width: 149px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Avaliação Física Gratuita */
+
+width: 152px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Aulas todos os dias */
+
+width: 149px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SEM Fidelidade de Plano */
+
+width: 146px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso ao APP NextFit */
+
+width: 132px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+isolation: isolate;
+
+width: 210px;
+height: 142px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 5px;
+gap: 20px;
+
+width: 210px;
+height: 58px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+z-index: 0;
+
+
+/* R$180 */
+
+width: 75px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FD9649;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Plano 2x na Semana */
+
+width: 102px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 5px;
+gap: 20px;
+
+width: 210px;
+height: 58px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+z-index: 1;
+
+
+/* R$250 */
+
+width: 80px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FD9649;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Plano 3x na Semana */
+
+width: 102px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ou */
+
+position: absolute;
+width: 19px;
+height: 19px;
+left: 98.4px;
+top: 49.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* or 120% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 30 */
+
+width: 122px;
+height: 26px;
+
+/* blue */
+background: #04188B;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Quero Começar */
+
+position: absolute;
+width: 81px;
+height: 0px;
+left: 20px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* muscu+rit */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 10px;
+
+width: 250px;
+height: 550px;
+
+background: linear-gradient(180deg, #E4E4E4 84.6%, #FFB57E 100%);
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 210px;
+height: 101px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plano Musculação + Ritmos */
+
+width: 152px;
+height: 65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 20px;
+/* or 91% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mensal */
+
+width: 77px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+text-align: justify;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+width: 210px;
+height: 370px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 210px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso à área de Cardio */
+
+width: 149px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Avaliação Física Gratuita */
+
+width: 152px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Aulas todos os dias */
+
+width: 149px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SEM Fidelidade de Plano */
+
+width: 146px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7px;
+
+width: 210px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Done */
+
+width: 25.26px;
+height: 20.33px;
+
+background: url(.png);
+transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Acesso ao APP NextFit */
+
+width: 132px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 210px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 5px;
+gap: 20px;
+
+width: 210px;
+height: 88px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* R$130 */
+
+width: 74px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FD9649;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 30 */
+
+width: 122px;
+height: 26px;
+
+/* blue */
+background: #04188B;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Quero Começar */
+
+position: absolute;
+width: 81px;
+height: 0px;
+left: 20px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 904px;
+height: 52px;
+left: 222px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Escolha seu Plano Apollo! */
+
+width: 640px;
+height: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: justify;
+
+/* blue */
+color: #04188B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* section-footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 1920px;
+height: 655px;
+
+/* blue */
+background: #04188B;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* container-footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 1466px;
+height: 385px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* frame-saiba */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 20px 0px 10px;
+gap: 20px;
+
+width: 359px;
+height: 385px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Saiba Mais */
+
+width: 323px;
+height: 43px;
+
+/* poppins-large */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Trabalhe Conosco */
+
+width: 329px;
+height: 16px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Sobre nós */
+
+width: 88px;
+height: 23px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Nosso Espaço */
+
+width: 474.26px;
+height: 50.63px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* frame-veja */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 20px 0px 10px;
+gap: 20px;
+
+width: 359px;
+height: 385px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Veja Também */
+
+width: 323px;
+height: 43px;
+
+/* poppins-large */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Planos */
+
+width: 328px;
+height: 29px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Eventos com a Comunidade */
+
+width: 474.26px;
+height: 50.63px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* frame-contato */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 20px 0px 0px;
+gap: 30px;
+
+width: 561px;
+height: 385px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Entre em Contato com a Apollo! */
+
+width: 541px;
+height: 43px;
+
+/* poppins-large */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 10px;
+
+width: 109px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* WhatsApp */
+
+width: 30px;
+height: 30px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Instagram */
+
+width: 30px;
+height: 30px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Facebook */
+
+width: 30px;
+height: 30px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 📍Avenida dos Corretores, 356 - Jardim Samambaia, Praia Grande - SP, 11712-400 */
+
+width: 517px;
+height: 37px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* contatoapolloacademia@gmail.com */
+
+width: 474px;
+height: 24px;
+
+/* poppins-medium */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: justify;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;

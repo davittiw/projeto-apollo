@@ -1,62 +1,41 @@
-/* Frame 1 */
+:root{
+    --poppins-medium: 500;
+    --poppins-large: 600;
+    --poppins-exlarge: 700;
+    --apollo-orange: #FD9649;
+    --apollo-blue: #04188B;
+}
 
-/* Auto layout */
+body {
 display: flex;
 flex-direction: column;
 align-items: center;
 padding: 0px;
-
 position: relative;
-width: 1920px;
+width: 100%;
 height: 4632px;
 overflow-y: scroll;
-
 background: #E4E4E4;
+}
 
-
-/* section-navbar */
-
-/* Auto layout */
+.section-navbar{
 display: flex;
-flex-direction: row;
-align-items: flex-start;
 padding: 0px 15px;
-
-width: 1920px;
+width: 100%;
 height: 100px;
+}
 
-/* apollo-orange */
-background: #FD9649;
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-align-self: stretch;
-flex-grow: 0;
-
-
-/* container-navbar */
-
-/* Auto layout */
+.container-navbar{
 display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: center;
 padding: 0px;
-
-width: 1890px;
+width: 100%;
 height: 100px;
+}
 
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 1;
-
-
-/* esquerdo-navbar */
-
-/* Auto layout */
+.left-navbar{
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -64,208 +43,82 @@ align-items: center;
 padding: 0px;
 gap: 10px;
 isolation: isolate;
-
 width: 912px;
 height: 100px;
+}
 
+.apollo-icon{
+    position: absolute;
+    width: 70px;
+    height: 68px;
+    left: 30px;
+    top: 16px;
+    background: url(Apollo-Logo-sem_fundo]);
+}
 
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px -12px;
-
-
-/* apollo-icon */
-
-position: absolute;
-width: 70px;
-height: 68px;
-left: 30px;
-top: 16px;
-
-background: url(Apollo-Logo-sem_fundo]);
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-z-index: 0;
-
-
-/* direito-navbar */
-
-/* Auto layout */
+.right-navbar{
 display: flex;
 flex-direction: row;
 justify-content: flex-end;
 align-items: center;
-padding: 0px;
-gap: 21px;
-
+padding: 2px;
+gap: 10px;
 width: 990px;
 height: 100px;
+}
 
+.button-matricula{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 40px;
+    padding: 3px 12px;
+    width: 9%;
+    height: 30px;
+}
 
-/* Inside auto layout */
-flex: none;
-order: 1;
-flex-grow: 1;
+.matricula {
+    width: 210px;
+    height: 24px;
+}
 
-
-/* button-matricula */
-
-/* Auto layout */
+.buttons-outros{
 display: flex;
-flex-direction: row;
-justify-content: flex-end;
+justify-content: center;
 align-items: center;
-padding: 3px 12px;
-
-width: 129px;
-height: 30px;
-
-/* blue */
-background: #04188B;
-border-radius: 6px;
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-
-
-/* Matricule-se */
-
-width: 104px;
-height: 24px;
-
-/* poppins-medium */
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-color: #FFFFFF;
-
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-
-
-/* Frame 5 */
-
-/* Auto layout */
-display: flex;
-flex-direction: row;
-justify-content: flex-end;
-align-items: center;
-padding: 0px 20px 0px 0px;
-gap: 16px;
-
-width: 458px;
+text-align: center;
+font-size: 40px;
+padding: 0px 200px 0px 100px;
+gap: 10px;
 height: 100px;
+}
 
-
-/* Inside auto layout */
-flex: none;
-order: 1;
-align-self: stretch;
-flex-grow: 0;
-
-
-/* Sobre nós */
-
-width: 94px;
+.sobre-nos{
+width: 200px;
 height: 24px;
+}
 
-/* poppins-medium */
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-color: #FFFFFF;
-
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-
-
-/* Contato */
-
-width: 142px;
+.contato{
+width: 200px;
 height: 24px;
+}
 
-/* poppins-medium */
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-/* white */
-color: #EEEEEE;
-
-
-/* Inside auto layout */
-flex: none;
-order: 1;
-flex-grow: 0;
-
-
-/* Espaço do Cliente */
-
-width: 145px;
+.espaco-cliente{
+width: 300px;
 height: 24px;
+}
 
-/* poppins-medium */
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-color: #FFFFFF;
-
-
-/* Inside auto layout */
-flex: none;
-order: 2;
-flex-grow: 0;
-
-
-/* section-home */
-
-/* Auto layout */
+.section-home{
 display: flex;
 flex-direction: row;
 justify-content: center;
 align-items: flex-start;
 padding: 0px;
 gap: 10px;
-
 width: 1920px;
 height: 810px;
-
-background: #811F1F;
-
-/* Inside auto layout */
-flex: none;
-order: 1;
-align-self: stretch;
-flex-grow: 0;
-
+}
 
 /* container-home */
 

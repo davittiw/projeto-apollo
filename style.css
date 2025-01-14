@@ -1,91 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
 :root{
     --poppins-medium: 500;
     --poppins-large: 600;
     --poppins-exlarge: 700;
     --apollo-orange: #FD9649;
     --apollo-blue: #04188B;
+    --apollo-white: #ffffff;
 }
 
 body {
-display: flex;
-flex-direction: column;
-align-items: center;
 padding: 0px;
-position: relative;
-width: 100%;
-height: 4632px;
-overflow-y: scroll;
+margin: 0px;
+width: 100vw;
+height: 100vh;
 background: #E4E4E4;
+font-family: 'Poppins';
 }
 
 .section-navbar{
-display: flex;
-padding: 0px 15px;
 width: 100%;
-height: 100px;
+display: flex;
+position: fixed;
+top: 0;
+left: 0;
+z-index: 1000;
+padding: 15px 0px;
+background-color: var(--apollo-orange);
+height: 200px;
+align-items: center;
+}
+
+.section-navbar span{
+    color: var(--apollo-white);
 }
 
 .container-navbar{
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 0px;
-width: 100%;
-height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 100%;
+    height: 100px;
 }
 
 .left-navbar{
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-padding: 0px;
-gap: 10px;
-isolation: isolate;
-width: 912px;
-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 50%;
+    height: 230px;
 }
 
 .apollo-icon{
     position: absolute;
-    width: 70px;
-    height: 68px;
-    left: 30px;
-    top: 16px;
-    background: url(Apollo-Logo-sem_fundo]);
+    width: 1700px;
+    height: 170px;
+    left: 120px;
+    top: 30px;
+}
+
+img{
+    width: 170px;
+    height: 170px;
 }
 
 .right-navbar{
-display: flex;
-flex-direction: row;
-justify-content: flex-end;
-align-items: center;
-padding: 2px;
-gap: 10px;
-width: 990px;
-height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+    align-items: center;
+    width: 50%;
+    height: 100px;
 }
 
 .button-matricula{
     display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
     font-size: 40px;
-    padding: 3px 12px;
-    width: 9%;
-    height: 30px;
+    padding: 3px 0px;
+    width: 400px;
+    height: 100px;
+    align-items: center;
 }
 
-.matricula {
-    width: 210px;
-    height: 24px;
+.right-navbar .matricula{
+    background-color: var(--apollo-blue);
+    width: 400px;
+    font-size: 40px;
+    color: var(--apollo-white);
+    padding: 10px 20px;
+    height: 100px;
+    border-radius: 10px;
+    font-family: 'Poppins';
 }
 
 .buttons-outros{
 display: flex;
-justify-content: center;
 align-items: center;
 text-align: center;
 font-size: 40px;
@@ -96,20 +109,20 @@ height: 100px;
 
 .sobre-nos{
 width: 200px;
-height: 24px;
+height:60px;
 }
 
 .contato{
 width: 200px;
-height: 24px;
+height: 60px;
 }
 
 .espaco-cliente{
-width: 300px;
-height: 24px;
+width: 400px;
+height: 60px;
 }
 
-.section-home{
+#home{
 display: flex;
 flex-direction: row;
 justify-content: center;

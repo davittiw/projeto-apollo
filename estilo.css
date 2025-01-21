@@ -173,6 +173,7 @@ button:hover{
 
 
 .content_4{
+    position: relative;
     color: black;
     display: flex;
     justify-content:center ;
@@ -182,23 +183,25 @@ button:hover{
     background: rgb(216, 215, 215);
 }
 
-.content_4 img{
-    position: absolute;
+.exercicio{
+    display: flex;
+}
+
+.exercicio img {
+   width: 20%;
+}
+
+.img {
     width: 40%;
+    position: absolute;
 }
 
 .content_4 h1,h2{ 
-    padding-left: 40px;
     font-size: 20px;            
 }
 
-.serviços_dir img{
-    position: relative;
-    width: 90px;
-}
 
 .content_4 span h1{
-    padding-right: 350px;
     line-height:70px;
     font-size: 80px;
 }

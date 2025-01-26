@@ -2,26 +2,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
-
 *{
     margin:0;
     padding:0; 
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--background);
+}
+
+:root {
+    --laranja-principal: #FD9649;
+    --azul-principal: #04188B;
+    --background: #E4E4E4;
+    --white-02: #FFFFFF;
+    --black-01: #000000;
+    --font-family: 'Poppins';
+    --altura-container: 80vh;
 }
 
 html{
     scroll-behavior: smooth;
 }
 
-a{
-    color: rgb(253, 253, 253);
-    text-decoration: none;
-    transition: .2s;
-    
-}
-
-a:hover{
-    opacity: 0.7;
-}
 
 .logo{
     font-size: 24px;
@@ -30,19 +34,19 @@ a:hover{
 }
 
 nav{
-    position: absolute;
-    z-index:1;
+    position: fixed;
+    z-index: 1;
     top:0;
+    left: 0;
     right: 0;
-    width: 100vw;
-    padding: 10px;
+    width: 100%;
+    padding: 40px;
     display: flex;
-    justify-content:space-around;
+    justify-content: space-between;
     align-items: center;
-    font-family: poppins, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background: rgba(255, 153, 0, 0.767);
-    height: 7vh;
-    bottom: 50px;
+    background: var(--laranja-principal);
+    height: 6vh;
+    font-family: var(--font-family);
 }
 
 .content{
@@ -54,14 +58,10 @@ nav{
     background: rgb(240, 240, 240);
 }
 
-.content_text img{
-    padding: 40px 0px 0px 0px;
-    width: 100%;
-}
 
 ul{
-   list-style:none;
-   display: flex; 
+    list-style:none;
+    display: flex; 
 }
 
 .Lista_nav li{
@@ -74,9 +74,9 @@ h1{
     font-size: 90px;
 }
 
-span a {
+.matricular a {
     background: rgb(9, 1, 121);
-    padding: 0.5rem;
+    padding: 0.5rem 1.5rem;
     color: rgb(255, 255, 255);
     border-radius: 10px;
 }
@@ -107,79 +107,106 @@ button:hover{
     background: none;
 }
 
-
-.content_2{
-    text-align: center;
-    position: relative;
-    background: rgb(248, 248, 248);
-    font-family: poppins, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+#home img{
+    width: 100%;
+    height: var(--altura-container);
 }
 
-.titulo{
-    padding-top: 40px;
-    color:rgb(9, 1, 121);
-    font-weight: bold;
-    font-size: 55px;
+#modalidades{
+    width: 1920px;
+    height: 980px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
-.titulo span {
-    color:rgb(255, 153, 0);
+.container-modal{
+    font-family: var(--font-family);
+    height: var(--altura-container);
 }
 
-.content_2 h2{
-    color: black;
+.info-titulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.info-titulo h1 {
+    color: var(--azul-principal);
+    margin: 0; 
+    padding: 0; 
+    font-size: 60px;
+    line-height: 1.2; 
+}
+
+.info-titulo h1 span {
+    color: var(--laranja-principal);
+}
+
+.info-titulo h2 {
+    color: var(--black-01);
     text-align: center;
     font-size: 22px;
-
+    line-height: 1;
+    padding: 0; 
 }
 
-.bloco_2 {
+a{
+    color: var(--white-02);
+    text-decoration: none;
+    transition: .2s;
+}
+
+a:hover{
+    opacity: 0.7;
+}
+
+.info-modal {
     display: flex;
-    text-align: center;
-    align-items: center;
+    gap: 100px;
+    margin-top: 50px;
     font-size: 15px;
-    font-weight: 100;
-    justify-content: space-around;
 }
 
-.bloco_2 img{
-    height: 40vh;
+.info-modal a{
+    height: 50vh;
 }
 
 .bloco_ch{
-    position: relative;
-    font-size: 40px;
     display: flex;
+    position: relative;
     justify-content: center;
     align-items: center;
-    writing-mode:vertical-lr;
-    margin-top: 60px;
-    margin-bottom: 30px;
-    color: white;
-    font-weight: bold;
-    background:#FD9649CC;
-    width: 20vw;
-    height: 70vh;
+    width: 17vw;
+    height: 50vh;
     border-radius: 8px;
+    font-size: 40px;
+    font-weight: bold;
+    writing-mode: vertical-lr;
+    background:var(--laranja-principal);
+    color: var(--white-02);
     transition: .2s ease-in-out;
 }
 
 .bloco_ch img{
-    opacity: 0.6;
+    opacity: 0.4;
     position: absolute;
+    object-fit: cover;
     width: 100%;
     height:100%;
 }
 
-
 .content_4{
     position: relative;
-    color: black;
+    color: var(--black-01)
     display: flex;
     justify-content:center;
     align-items: center;
-    font-family: poppins, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    height: 600px;
+    
+    height: 90vh;
     background: rgb(216, 215, 215);
 }
 
